@@ -1,0 +1,10 @@
+# исключения
+conf.py
+__pycache__
+.vscode
+FFmpeg
+img/*
+
+
+# исключения исключений
+!img/vs_bg_gif
