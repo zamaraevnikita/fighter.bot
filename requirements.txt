@@ -1,7 +1,6 @@
 discord.py
 Pillow
 requests
-json
 PyNaCl
 ffmpeg-python
 youtube_dl
